@@ -1,0 +1,20 @@
+# Somente os documentos reutilizáveis selecionados fazem parte deste backup.
+/*
+!/.gitignore
+!/AGENTS.md
+!/README.md
+!/Ambiente/
+!/Jira/
+!/Processamento/
+/Ambiente/*
+!/Ambiente/backup-e-publicacao.md
+!/Ambiente/codex-terminal.md
+/Jira/*
+!/Jira/conexao-e-filtro.md
+/Processamento/*
+!/Processamento/esb-e-yoke.md
+!/Processamento/acesso-e-execucao.md
+!/Processamento/disponibilizacao-sftp.md
+!/Processamento/Yoke/
+/Processamento/Yoke/*
+!/Processamento/Yoke/rotas.md

@@ -4,6 +4,7 @@ Padrao de trabalho para Jira e processamento Equals: procedimentos e aprendizado
 
 ## Preferências do usuário
 
+- Ao usuário avisar que vai encerrar a sessão, atualizar a documentação, criar commit com identidade pessoal e enviar para `https://github.com/Rullck/CODEX.git`, verificando o push. Esta autorização de envio ao Git vale para os próximos encerramentos. A nuvem permanece pendente de definição de destino.
 - Conversar em português.
 - Consultar CRCPROCESSAMENTO sempre por IDPROCESSAMENTO DESC, salvo orientação diferente.
 - Preparar comandos de cópia em blocos, inclusive para milhares de arquivos; o usuário executa no terminal.
